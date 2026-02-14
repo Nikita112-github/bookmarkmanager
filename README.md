@@ -4,7 +4,7 @@ A modern bookmark management application built with Next.js 14 (App Router), Sup
 
 ## 🚀 Live Demo
 
-[Live URL will be added after deployment]
+"https://bookmarkmanager-sepia.vercel.app/"
 
 ## ✨ Features
 
